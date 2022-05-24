@@ -1,0 +1,4 @@
+Region,Country,Item_Type,Sales_Channel,Order_Priority,Order_Date,Order_ID,Ship_Date,Units_Sold,Unit_Price,Unit_Cost
+Europe,Romania,Cosmetics,Online,M,16-03-0016,707318103,03-05-2016,10000,437.2,263.33
+Sub-Saharan Africa,Malawi,Baby Food,Online,L,25-01-0017,802241694,09-02-2017,10000,255.28,159.42
+Sub-Saharan Africa,Mauritius ,Fruits,Offline,H,24-11-0015,498040139,05-12-2015,10000,9.33,6.92
